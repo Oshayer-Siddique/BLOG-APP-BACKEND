@@ -27,6 +27,8 @@ public class UserDto {
     @NotNull
 
     private String role;
+
+
     private String about;
 
 
